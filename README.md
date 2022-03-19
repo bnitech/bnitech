@@ -48,5 +48,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/bnitech/" target="_blank"><img src="https://img.shields.io/badge/bnitech-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/dongbin.im.566" target="_blank"><img src="https://img.shields.io/badge/dongbin-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
   <a href="https://twitter.com/dongbin_im" target="_blank"><img src="https://img.shields.io/badge/dongbin_im-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:bnitech88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bnitech88@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/bni.story/" target="_blank"><img src="https://img.shields.io/badge/bni.story-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
