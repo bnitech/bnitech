@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bnitech)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bnitech)](https://www.linkedin.com/in/bnitech/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dongbin.im.566)](https://www.facebook.com/dongbin.im.566)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bnitech88@gmail.com)](mailto:bnitech88@gmail.com)
- <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbnitech&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p>
+  <a href="https://www.linkedin.com/in/bnitech/" target="_blank"><img src="https://img.shields.io/badge/bnitech-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/dongbin_im" target="_blank"><img src="https://img.shields.io/badge/dongbin_im-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:bnitech88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bnitech88@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+<p>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbnitech&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                   
+</p>
