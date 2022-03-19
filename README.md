@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bnitech)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bnitech&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   <a href="https://www.linkedin.com/in/bnitech/" target="_blank"><img src="https://img.shields.io/badge/bnitech-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
