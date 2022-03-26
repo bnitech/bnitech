@@ -1,4 +1,7 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bnitech&show_icons=true&theme=bue)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/bnitech">
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=bnitech&show_icons=true&theme=bue"/>
+  <img  style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnitech&show_icons=true&theme=bue"/>
+</a>
 
 #### Programming Skills
 <p>
