@@ -1,5 +1,3 @@
-</br>
-
 ### Programming Skills
 <p>
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
@@ -25,5 +23,3 @@
   <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
 </p>
-
-</br>
