@@ -1,4 +1,8 @@
-### Programming Skills
+<table>
+<tr>
+<td>
+
+#### Programming Skills
 <p>
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -14,12 +18,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-</br>
-
-### Familiar Tools
+#### Familiar Tools
 <p>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/>
   <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
 </p>
+</td>
+<td>
+<a href="https://github.com/bnitech">
+   <img  style="height:250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnitech&show_icons=true&theme=bue"/>
+</a>
+</td>
+</tr>
