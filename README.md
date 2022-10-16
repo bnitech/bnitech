@@ -1,8 +1,3 @@
-<a href="https://github.com/bnitech">
-  <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=bnitech&show_icons=true&theme=bue"/>
-  <img  style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnitech&show_icons=true&theme=bue"/>
-</a>
-
 #### Programming Skills
 <p>
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
@@ -26,3 +21,8 @@
   <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
 </p>
+
+</br>
+<a href="https://github.com/bnitech">
+  <img  style="width:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnitech&show_icons=true&theme=bue"/>
+</a>
